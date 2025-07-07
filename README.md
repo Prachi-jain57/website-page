@@ -16,7 +16,7 @@
 ## 🚀 Projects I'm Working On
 - Portfolio Website 🌐
 - Responsive Landing Pages 📱
-- JavaScript mini-projects 
+- JavaScript projects 
 
 📬 Let's connect and grow together!  
 Feel free to check out my projects and suggest improvements 💡
